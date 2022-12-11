@@ -1,0 +1,8 @@
+body {
+    background: url("../img/11.jpg") no-repeat;
+    background-size:cover;font-size: 15px;
+    min-height: 100vh;
+}
+h2{
+    color: azure;
+}
